@@ -1,2 +1,0 @@
-# projeto-pizzaria
- Pizzaria online
